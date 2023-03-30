@@ -147,3 +147,4 @@ while True:
         ball.dx *= -1
         # on collision make sound
         winsound.PlaySound("bounce.wav", winsound.SND_ASYNC)
+ 

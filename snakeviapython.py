@@ -8,6 +8,10 @@
 # https://pastebin.com/embed_js/jB6k06hG
 # left off at time 1h 8m 0s
 
+# i can't follow this guy's snake code. he goes too fast and explains too litel
+# the code is advanced enough if you can follow it you wouldn't need a snake tutorial of this elementry level
+
+
 #Snake Tutorial Python
 
 import math
